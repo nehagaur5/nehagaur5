@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha Gaur</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&height=60&lines=Full+Stack+Developer;Computer+Science+with+AI+Undergrad;Open+Source+Contributor;200%2B+DSA+Problems+Solved;Top+500+National+Rank+Coder;Mentor+at+AVINYA+Community;AI+%26+Data+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&height=60&lines=Full+Stack+MERN+Developer;Open+Source+Contributor;DSA+Enthusiast;200%2B+DSA+Problems+Solved;Mentor+at+AVINYA+Community;AI+%26+Web+Dev+Enthusiast;Good+with+Testing+Tools+like+Cypress;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,8 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech CSE with AI student** at NIET, Greater Noida, with strong skills in **Full Stack Development, Data Structures & Algorithms, and AI-powered applications**.  
-I love building impactful projects, mentoring peers, and continuously exploring **AI + Web Development synergies**. As a **mentor at AVINYA Community**, I’ve conducted live sessions and guided learners to improve their problem-solving skills.
+I'm a passionate **Full Stack Developer**, **DSA Enthusiast**, and **Open Source Contributor** pursuing B.Tech in Computer Science with AI at NIET, Greater Noida. I focus on building scalable, secure applications and continuously improving my data structures and algorithms skills. As a mentor at the **AVINYA Community**, I love sharing knowledge and helping peers grow.
 
 ---
 
@@ -29,31 +28,42 @@ I love building impactful projects, mentoring peers, and continuously exploring 
   <br><br>
 
   <!-- GitHub -->
-  <a href="https://github.com/nehagaur" target="_blank">
+  <a href="https://linktr.ee/nehagaur" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/nehagaur" target="_blank">
+  <a href="https://linktr.ee/nehagaur" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/nehagaur" target="_blank">
+  <a href="https://linktr.ee/nehagaur" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
-  <!-- Portfolio -->
-  <a href="https://nehagaur-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <!-- GeeksforGeeks -->
+  <a href="https://linktr.ee/nehagaur" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 
-  <!-- Email -->
-  <a href="mailto:gauran0236@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <!-- CodeChef -->
+  <a href="https://linktr.ee/nehagaur" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://linktr.ee/nehagaur" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+
+  <!-- Resume -->
+  <a href="https://linktr.ee/nehagaur" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 
 </div>
+
 
 ---
 
@@ -62,51 +72,62 @@ I love building impactful projects, mentoring peers, and continuously exploring 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">💻 <a href="#">Dev2Gether</a></h3>
+     
+
+   <td width="50%" valign="top">
+        <h3 align="center">💻 <a href="https://github.com/mayankgaur0405/Dev2Gether">Dev2Gether</a></h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status" />
+          <a href="https://dev2gether.onrender.com/">
+            <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status" />
+          </a>
         </p>
         <p>
-        • Real-time collaborative IDE for JS, Python, C++, Java.<br>
-        • Multi-user editing with Socket.io & live execution.<br>
-        • Dynamic rooms, language switching, activity tracking.<br>
-        • Upcoming AI assistant for debugging & code generation.<br>
-        • <b>Tech:</b> MERN, Monaco Editor, Socket.io
+       • Built collaborative IDE for four programming languages.<br>
+      • Live multi-user editing with Socket.io integration.<br>
+      • Dynamic rooms, language switching, and activity tracking.<br>
+      • Real-time code execution directly in browser.<br>
+      • <b>Tech:</b> MERN, Monaco Editor, Socket.io
         </p>
       </td>
 
-      <td width="50%" valign="top">
-        <h3 align="center">🤝 <a href="#">PeerConnect</a></h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
-        </p>
-        <p>
-        • Peer-to-peer platform for NIET students.<br>
-        • Profiles with roadmaps, materials, resources.<br>
-        • Interview experiences feed & mentorship system.<br>
-        • Follow system enabling referrals & networking.<br>
-        • <b>Tech:</b> MERN, TailwindCSS, JWT
-        </p>
-      </td>
+<td width="50%" valign="top">
+  <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/GL-PeerBajaj.git">GL PeerBajaj</a></h3>
+  <p align="center">
+    <a href="https://gl-peer-bajaj.vercel.app/">
+      <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
+    </a>
+  </p>
+  <p>
+    • Peer-to-peer student networking platform.<br>
+    • Profiles with roadmaps and resources.<br>
+    • Interview experiences feed and profiles.<br>
+    • Follow system for mentorship connections.<br>
+    • <b>Tech Stack:</b> MERN, TailwindCSS, JWT Auth
+  </p>
+</td>
     </tr>
 
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🏥 <a href="#">Swasthya-Setu</a></h3>
+  <tr>
+     
+
+ <td width="50%" valign="top">
+        <h3 align="center">🏥🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu">Swasthya-Setu</a></h3>
         <p align="center">
-          <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
+          <a href="https://swasthya-setu-six.vercel.app/">
+            <img src="https://img.shields.io/badge/Swasthya_Setu-Live-success?style=for-the-badge" alt="Live Status" />
+          </a>
         </p>
         <p>
-        • Telemedicine platform with Zegocloud video calls.<br>
-        • AI assistant (AssemblyAI) for symptom checks.<br>
-        • Secure health data with MongoDB & NeonDB.<br>
-        • Clerk authentication for safe sessions.<br>
-        • <b>Tech:</b> MERN, Next.js, Tailwind, Clerk, NeonDB
+         • Healthcare platforms with Zegocloud video calls.<br>
+      • Planned AI agent via AssemblyAI for diagnosis.<br>
+      • Data security with MongoDB and NeonDB.<br>
+      • Clerk authentication and role-based routing.<br>
+      • <b>Tech:</b> MERN, Next.js, Tailwind, Clerk, AssemblyAI, NeonDB, JWT
         </p>
       </td>
 
-       <td width="50%" valign="top">
+
+   <td width="50%" valign="top">
         <h3 align="center">💬 <a href="https://github.com/mayankgaur0405/TalkTown.git">TalkTown</a></h3>
         <p align="center">
           <a href="https://talktown-8lif.onrender.com/">
@@ -150,18 +171,31 @@ I love building impactful projects, mentoring peers, and continuously exploring 
 
 ## 🏆 Achievements
 
-- Solved **200+ coding problems** across LeetCode, GFG, HackerRank.  
-- Ranked **Top 500 / 15,000+** in national coding competition (Coding Ninjas).  
-- Certified in **Data Analysis (Cognifyz)**, **Generative AI (Infosys)**, **Azure AI Vision (Microsoft)**, and **Web Development (Bharat Intern)**.  
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>Solved 200+ coding problems across platforms</li>
+          <li>Ranked Top 500 / 15,000+ in a national coding competition</li>
+          <li>Mentor at AVINYA Community with 5+ live sessions</li>
+          <li>Certified in Data Analysis (Cognifyz), Generative AI (Infosys), Azure AI Vision (Microsoft)</li>
+          <li>Built and deployed multiple full‑stack projects using MERN & Next.js</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 🤝 Mentorship & Leadership
+## 🌟 Coding Profiles
 
-- **Mentor @ AVINYA Community**  
-  • Delivered **5+ live algorithm sessions** for 100+ learners.  
-  • Provided **personalized code reviews & one-on-one mentorship**.  
-  • Improved assessment performance of mentees by **25%**.  
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/nehagaur)
+
+</div>
 
 ---
 
