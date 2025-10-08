@@ -75,9 +75,9 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast**, and **Open Source
      
 
    <td width="50%" valign="top">
-        <h3 align="center">💻 <a href="https://github.com/mayankgaur0405/Dev2Gether">Dev2Gether</a></h3>
+        <h3 align="center">💻 <a href="git@github.com:nehagaur5/Dev2Gether.git">Dev2Gether</a></h3>
         <p align="center">
-          <a href="https://dev2gether.onrender.com/">
+          <a href="https://dev2gether-6tb3.onrender.com/">
             <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Live Status" />
           </a>
         </p>
@@ -111,7 +111,7 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast**, and **Open Source
      
 
  <td width="50%" valign="top">
-        <h3 align="center">🏥🧠 <a href="https://github.com/mayankgaur0405/Swasthya-Setu">Swasthya-Setu</a></h3>
+        <h3 align="center">🏥🧠 <a href="https://github.com/nehagaur5/Swasthya-Setu.git">Swasthya-Setu</a></h3>
         <p align="center">
           <a href="https://swasthya-setu-six.vercel.app/">
             <img src="https://img.shields.io/badge/Swasthya_Setu-Live-success?style=for-the-badge" alt="Live Status" />
@@ -126,9 +126,9 @@ I'm a passionate **Full Stack Developer**, **DSA Enthusiast**, and **Open Source
         </p>
       </td>
  <td width="50%" valign="top">
-  <h3 align="center">🔗 <a href="https://github.com/mayankgaur0405/MG-Virtual-Line.git">MG Virtual Line</a></h3>
+  <h3 align="center">🔗 <a href="https://github.com/nehagaur5/NG-Virtual-Line.git">NG Virtual Line</a></h3>
   <p align="center">
-    <a href="https://mg-virtual-line.onrender.com/">
+    <a href="https://ng-virtual-line.onrender.com">
       <img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge" alt="Status" />
     </a>
   </p>
